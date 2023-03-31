@@ -1,6 +1,6 @@
 Name:		texlive-yfonts-otf
 Version:	64075
-Release:	1
+Release:	2
 Summary:	OpenType version of the Old German fonts designed by Yannis Haralambous
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-otf
