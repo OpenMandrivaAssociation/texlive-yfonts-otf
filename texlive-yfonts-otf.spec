@@ -3,7 +3,7 @@ Version:	65030
 Release:	1
 Summary:	OpenType version of the Old German fonts designed by Yannis Haralambous
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yfonts-otf
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts-otf.doc.r%{version}.tar.xz
